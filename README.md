@@ -34,3 +34,4 @@ It appears that free sulphur dioxide values appear to be most correlated with qu
 Best Scaler: Standard Scaler
 Best Feature Selection: Variance Threshold
 Best Model: Random Forest
+Accuracy Score: 79.2%
