@@ -32,6 +32,6 @@ It appears that free sulphur dioxide values appear to be most correlated with qu
 ![actual-expected-results](https://github.com/rodrickmascarenhas/wine-quality/assets/30309234/2009c506-50ea-4284-bc23-056ae2902da8)
 
 Best Scaler: Standard Scaler
-Best Feature Selection: Variance Threshold
-Best Model: Random Forest
-Accuracy Score: 79.2%
+<br />Best Feature Selection: Variance Threshold
+<br />Best Model: SVM
+<br /> Best Accuracy Score: 67%
