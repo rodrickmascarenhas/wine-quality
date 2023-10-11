@@ -1,5 +1,5 @@
 # Wine Quality Classifier
-You can download the dataset from my Github repository: https://rodrickmascarenhas.github.io/wine-quality
+You can download the dataset from my Github repository: https://github.com/rodrickmascarenhas/wine-quality
 
 The dataset is related to red and white variants of the Portuguese "Vinho Verde" wine. For more details, consult: <a href="https://www.vinhoverde.pt/en/">[Web Link]</a>  or the reference [Cortez et al., 2009]. 
 
