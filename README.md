@@ -21,17 +21,15 @@ The objective is to classify the data into the various quality score categories.
 
 Eliminating outliers from our dataset to limit the z-score values to 3.
 
-image
-
 ## Exploratory Data Analysis
 
-image
+![correlation-heatmap](https://github.com/rodrickmascarenhas/wine-quality/assets/30309234/e5fe8395-71c0-4a2c-abba-0041386a8fd7)
 
 It appears that free sulphur dioxide values appear to be most correlated with quality
 
 ## Results
 
-image
+![actual-expected-results](https://github.com/rodrickmascarenhas/wine-quality/assets/30309234/2009c506-50ea-4284-bc23-056ae2902da8)
 
 Best Scaler: Standard Scaler
 Best Feature Selection: Variance Threshold
