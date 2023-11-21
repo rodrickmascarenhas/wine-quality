@@ -25,7 +25,7 @@ Eliminating outliers from our dataset to limit the z-score values to 3.
 
 ![correlation-heatmap](https://github.com/rodrickmascarenhas/wine-quality/assets/30309234/e5fe8395-71c0-4a2c-abba-0041386a8fd7)
 
-It appears that free sulphur dioxide values appear to be most correlated with quality
+It appears that volatile acidity values appear to be most correlated with quality
 
 ## Results
 
